@@ -17,8 +17,6 @@ I have an interest in technology, programming and software development. I'm buil
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 />
-<br>
-<br>
 ### 📊 Estatísticas
 
 <p align="left">
@@ -30,6 +28,6 @@ I have an interest in technology, programming and software development. I'm buil
   <img 
     alt="Top Languages" 
     height="195" 
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Arthur-Moreira06&theme=chartreuse-dark&locale=pt-br&layout=compact" 
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Arthur-Moreira06&theme=chartreuse-dark&locale=pt-br&layout=compact&card_width=320" 
   />
 </p>
