@@ -1,16 +1,35 @@
-## Hi there 👋
+#  Arthur Moreira
 
-<!--
-**Arthur-Moreira06/Arthur-Moreira06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Engenharia de Software`**
 
-Here are some ideas to get you started:
+Software Engineering student at Universidade Católica de Brasília (UCB).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have an interest in technology, programming and software development. I'm building my journey as a developer, continually seeking to learn, develop projects, and transform ideas into solutions.
+
+---
+### Linguagens e tecnologias
+
+<img 
+    align="left" 
+    alt="C"
+    title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+/>
+<br>
+<br>
+### 📊 Estatísticas
+
+<p align="left">
+  <img 
+    alt="GitHub Stats" 
+    height="195" 
+    src="https://github-stats-extended.vercel.app/api?username=Arthur-Moreira06&theme=chartreuse-dark&locale=pt-br" 
+  />
+  <img 
+    alt="Top Languages" 
+    height="195" 
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Arthur-Moreira06&theme=chartreuse-dark&locale=pt-br&layout=compact" 
+  />
+</p>
